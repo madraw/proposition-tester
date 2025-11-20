@@ -32,6 +32,14 @@ This document provides a comprehensive overview of InterviewKickstart's AI cours
 - Hands-on projects throughout
 - Community-oriented experience
 
+**Key USP - Instructor Quality:**
+- **Taught by practitioners from FAANG+ companies and AI startup companies**
+- Instructors have real-world experience using AI in their day-to-day work
+- Mix of practitioners (hands-on builders) and strategists (experienced leaders)
+- Examples: Senior Product Managers, Growth Marketing Leads, VPs from Google, Amazon, Microsoft, GitHub
+- Building toward "celebrity SME" roster comparable to Maven/Reforge quality
+- Focus: People actively delivering AI-driven outcomes, not just marketing AI products
+
 ### Transformation/Outcomes
 
 **Target Outcomes:**
@@ -96,17 +104,24 @@ This document provides a comprehensive overview of InterviewKickstart's AI cours
 ## 3. PRICING & BUSINESS MODEL
 
 ### Current Pricing
-- **Main Program**: $4,000-$5,000
-- **Strategy**: Premium pricing, no dilution to $2k range
+- **Current Non-Tech AI Marketing Program**: $2,000
+  - Reduced from flagship pricing ($5k+) to test market
+  - Still struggling with conversion despite lower price
+  - Sales team not converting even with "alright" lead quality
+- **Flagship Tech Programs**: $4,000 - $5,000+
+- **Original Strategy**: Premium pricing, no dilution to $2k range
 - **Rationale**: Higher ASP compensates for high CAC/CPL environment
+- **Reality Check**: At $2k with sales-driven model, not hitting goals → suggests pricing/model mismatch or an operations efficiency issue
 
-### Pricing Tests Planned
+### Tests Planned
+- **goal is to test the combination of proposition, format, price that results in the best traffic to the landing page** 
 - **Accelerator model**: $999-$1,999
 - **Different formats**: Test full-time vs part-time vs semi-part-time
 - **Multivariate testing**: Proposition + format + price combinations
 
+
 ### Subscription Model (Future Consideration)
-Inspired by Reforge's evolution:
+We need to provide the best learning outcome in the world for our ICP. at the same time, we need to move to a subscription based model to increase revenue predictability. Think of the solution as an annual spend to stay relevant esp for those who are not self learners and those who are averse to technology
 - **Premium tier ($2,000/year)**: Unlimited live courses
 - **Standard tier ($1,000/year)**: Offline content access
 - **One-off courses**: $750 per course
@@ -167,23 +182,109 @@ Inspired by Reforge's evolution:
 
 ### Current Marketing Funnel (As of Nov 2025)
 
-**Lead Generation:**
-- Primarily paid channels (LinkedIn, Meta)
-- CPL: $50-200 per webinar attendee
-- Challenge: Targeting misalignment (getting people who ask "What is an LLM?")
-- Lead mix quality dropped from 70% to 60% relevant
+#### Detailed Consumer Journey & Sales Process
 
-**Conversion Funnel:**
-- Masterclass-type events (moved to single funnel approach)
-- WA reminders added to boost attendance
-- Average masterclass attendance: ~25 people
-- Challenge: Low lead connect rate (~5.5%)
+**Step 1: Paid Advertising**
+- **Channels**: Primarily LinkedIn, with some Google Discovery
+- **Distribution**: Majority of leads come from LinkedIn
+- **CPL**: $50-200 per registration
+- **Landing page focus**: Masterclass registration (not direct program sale)
 
-**Sales Process:**
-- Small PA (sales) team
-- Training program initiated for new PAs
-- DSR (Daily Sales Report) standardization implemented
-- Focus on G-meet bookings over phone calls
+**Step 2: Landing Page**
+- User lands on masterclass registration page
+- **Drop-off handling**: Users who leave are NOT retargeted or followed up
+- **Form completion**: Only those who complete form are captured
+- **Storage**: All leads stored in HubSpot CRM
+
+**Step 3: Pre-Masterclass Outreach**
+- **Who**: Program Advisors (PA team / sales team)
+- **Actions**:
+  - Reach out to registrants
+  - Gather profile information
+  - Inform about masterclass details
+- **Challenge**: Low connect rate (~5.5%)
+
+**Step 4: Masterclass Event**
+- **Attendance**: Only 15-20% of registrants actually show up
+- **Retention**: ~50% of attendees stay until the end
+- **Format**: Moved to single masterclass-type funnel for efficiency
+- **Average attendance**: ~20 people per event
+- **Enhancement**: WhatsApp reminders added to boost attendance
+
+**Step 5: Post-Masterclass Sales**
+- **Who**: PA team reaches out again
+- **Action**: Pitch the $2,000 program
+- **Conversion**: Those who convert pay $2,000 (reduced from typical $5k+ flagship programs)
+- **Challenge**: Despite "alright" lead quality, sales team struggling to convert
+
+#### Critical Sales Process Challenges
+
+**1. High PA/Sales Team Attrition**
+- Turnover is significant issue
+- 5-6 hires needed to find 1 who stays 6+ months (from main business experience)
+
+**2. Lack of Domain Expertise**
+- **Problem**: Program Advisors have NO marketing experience
+- Selling marketing program without marketing background
+- Makes credibility building difficult with prospects
+
+**3. Elongated Training Cycle**
+- New PAs take long time to ramp up
+- Low productivity during initial period
+- Training burden on organization
+
+**4. Variable User Experience**
+- Sales-driven process = inconsistent experience
+- Each PA has different approach/quality
+- No standardized customer journey
+
+**5. Fundamental Conversion Challenge**
+- **Core issue**: Even with outbound sales team, not hitting sales goals
+- Sales team hasn't complained about lead quality
+- **Problem is conversion, not lead quality**
+- Price point ($2k) lower than flagship ($5k+), but still not converting
+
+**6. Scaling Limitations**
+- Sales-led model introduced due to high price point on flagship
+- But at $2k, sales overhead may not be justified
+- Indian sales team faces challenges with US Caucasian audience (accent, trust factors)
+- High-touch model doesn't scale efficiently
+
+#### Current Funnel Metrics & Leakage Points
+
+**Funnel Visualization:**
+```
+Paid Ads (LinkedIn + Google Discovery)
+    ↓
+Landing Page Visitors
+    ↓ (Drop-offs NOT retargeted)
+Landing Page Registrations → Stored in HubSpot
+    ↓
+PA Outreach (Connect rate: ~5.5%)
+    ↓
+Masterclass Registrants
+    ↓ (Attendance rate: 15-20%)
+Masterclass Attendees (~25 avg)
+    ↓ (Retention: 50%)
+Masterclass Completers (~12-13)
+    ↓
+Post-Event PA Outreach & Pitch
+    ↓ (Conversion: STRUGGLING)
+Program Sales ($2,000)
+```
+
+**Key Leakage Points:**
+1. **Landing page drop-offs**: No retargeting = lost opportunity
+2. **PA connect rate**: we do not ever talk to 94.5% of leads
+3. **Masterclass attendance**: 80-85% of registrants no-show
+4. **Masterclass completion**: 50% drop during event
+5. **Final conversion**: Even with "good" leads, PAs can't close
+
+**Implication**: Massive funnel leakage + conversion problem → Need either:
+- Better proposition/messaging (Ryan's recommendation)
+- Different sales model (PLG, low-touch)
+- operations efficiency issues e.g. sales training methods, tech infra issues.
+- Or all of the above.
 
 ### Strategic GTM Pivot (Ryan's Recommendation - Nov 18, 2025)
 
@@ -193,9 +294,9 @@ Inspired by Reforge's evolution:
 
 **New Testing Framework:**
 1. **Top-down testing with landing pages**
-   - Create 5 different value propositions
+   - Create multiple value propositions
    - Each ad → dedicated landing page for that proposition
-   - Success metric: Click-through rate (CTR)
+   - Success metric: Click-through rate (CTR) & lead fill rate (page traffic -> registrations)
    - Target: 5-20% registration rate from landing page visitors
    - Iterative: Test 5 → eliminate 2 worst → add 2 new → repeat
 
@@ -279,11 +380,12 @@ Inspired by Reforge's evolution:
 **Direct Competitors:**
 - Maven: High-quality instructors, cohort-based learning
 - Reforge: Product/growth focus, recently acquired/struggling
-- Deep Learning AI: Technical focus
-- GL, Simply Learn: Sell university degrees (different model)
+- Deep Learning AI: Technical focus, free video content, paid for mentorship & capstone projects & certification.
+- GreatLearning, Simply Learn: Sell university degrees (different model)
 
 **Key Differentiator:**
 - All competitors target technical audience
+- those who dont target technical audiences still need to teach how to use technical tools in their current workstream. but the teaching method is technical in nature & is difficult for non technical people to understand. 
 - Non-tech/no-code AI positioning is open opportunity
 - Quality challenge: Competitor instructors have strong social followings
 
@@ -350,7 +452,7 @@ Inspired by Reforge's evolution:
 **Engineering Word-of-Mouth:**
 1. Selection as quality filter (entrance requirements)
    - Creates exclusivity and better outcomes
-   - Examples: ISB (1-year program, foreign faculty), Howard (great students)
+   - Examples: ISB (1-year program, foreign faculty), Harvard (great students)
    - Higher conversion rates from selectivity
    - Natural network effects from cohort quality
 
@@ -366,14 +468,16 @@ Inspired by Reforge's evolution:
 
 **Key Insight:**
 - "If product valuable, sales guy is completely irrelevant" (Ryan)
+- non technical people think that learning AI is a highly technical skill. 
+- non technical people are non technical exactly because they are not comfortable with technology. as an upskilling company, we need to simplify the training content & use methods that make non technical people comfortable with thinking in workflows & using AI tools.  
 - Focus on making customers promote you vs. doing hard work of promotion
 - Build something small cohorts love → word-of-mouth → scale
 
 ### Positioning Learnings
 
 **Major Barrier to Overcome:**
-- Everyone thinks they need to code for AI
-- Real example: VC investor (Prishab from Marico family) interested but blocked by coding misconception
+- Everyone thinks they need to learn coding to use AI effectively
+- Real example: VC investor (Rishabh from Marico family) interested but blocked by coding misconception
 - Ryan's wife (Cambridge grad, university topper) - mental block despite being "super bright"
 - Barrier takes 6 months to cross mentally, but building first agent takes 5 minutes
 
@@ -450,7 +554,7 @@ Inspired by Reforge's evolution:
 
 ## 10. THREE WORK STREAMS (Madan's Focus Areas)
 
-### Priority Order:
+### Workstreams that need to fire in tandem for the business to succeed:
 1. **Curriculum**: Stabilize course content and experience
 2. **Sales**: Get basic processes and training right
 3. **Leads**: Tackle after above two are stabilized
@@ -468,9 +572,16 @@ Inspired by Reforge's evolution:
 - PA training program launched
 - DSR format standardization implemented
 - Team expansion: Added 2 PAs, planned 5 more junior PAs
-- Challenge: Initial pitch too interview-like, building rapport difficult
+- **Current sales process challenges:**
+  - **No marketing experience**: PAs selling marketing program without marketing background
+  - **High attrition**: Significant turnover, 5-6 hires to find 1 stable PA
+  - **Long training cycle**: Low productivity during ramp-up period
+  - **Variable experience**: Each PA has different approach, inconsistent customer journey
+  - **Conversion problem**: Despite "alright" lead quality, not hitting sales goals
+  - Initial pitch too interview-like, building rapport difficult
 - WhatsApp integration pending (Meta approval for templates)
 - LinkedIn profiling of leads to give PAs context/cue cards
+- **Core insight**: Problem is conversion ability, not lead quality
 
 **Leads:**
 - Moved completely to Masterclass-type funnel for efficiency
@@ -524,6 +635,7 @@ Inspired by Reforge's evolution:
    - Set up weekly testing sprints
    - Buy separate domains (don't wait for subdomains)
    - Hire dedicated paid marketing person or junior admin
+   - **Add retargeting**: Currently landing page drop-offs are NOT followed up → massive lost opportunity
 
 2. **Launch First Cohort (Nov 22)**
    - Validate curriculum with 6 students
